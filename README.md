@@ -1,2 +1,2 @@
-# POO-P2-G05
-# Integrantes: Jeremy Poveda, Ángel Tomalá, Loor Paulina
+# Medical appointment system for special children - Sistema de citas médicas para niños especiales.
+# Devs: Jeremy Poveda, Ángel Tomalá, Loor Paulina
